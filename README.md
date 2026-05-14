@@ -3,7 +3,7 @@ Convert handwritten images into digital text using OCR (English + Urdu support).
 
 # Try the Handwriting to Digital Text App here:
 
-Handwriting to Digital Text App
+https://handwritingtodigitaltext.netlify.app/
 
 - Click the link above to open and use the application directly in your browser.
 
